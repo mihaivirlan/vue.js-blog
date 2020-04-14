@@ -1,4 +1,4 @@
-# my-first-nuxt-app
+# blog built in vue.js and nuxt.js
 
 > My tiptop Nuxt.js project
 
