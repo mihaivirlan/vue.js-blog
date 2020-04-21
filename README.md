@@ -1,4 +1,4 @@
-# blog built in vue.js and nuxt.js
+# This blog project was buit in Vue.js with nuxt.js web framework
 
 > My tiptop Nuxt.js project
 
