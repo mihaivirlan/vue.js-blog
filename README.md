@@ -1,7 +1,5 @@
-# This blog project was buit in Vue.js with nuxt.js web framework
-
-# Below you can find the link with blog application deployed on firebase:
-# https://nuxt-blog-e47dd.web.app/
+# This blog project was buit in Vue.js with nuxt.js web framework, below you can find the link with blog application deployed on firebase:
+https://nuxt-blog-e47dd.web.app/
 
 ## Build Setup
 
